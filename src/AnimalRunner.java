@@ -50,7 +50,7 @@ public class AnimalRunner {
 			}
 		}
 
-	}
+	} 
 
 	/**
 	 * Attempts to return a reference to an instance of a class extending Animal. A
