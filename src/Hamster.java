@@ -9,7 +9,7 @@ class Hamster extends Animal {
 	@Override
 	public String getSound() {
 		// TODO Auto-generated method stub
-		return "aslkdfjsladjfal";
+		return "asddlkdfjsladjfal";
 	}
 
 	@Override
